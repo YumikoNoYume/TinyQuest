@@ -1,0 +1,5 @@
+5 On the table are various herbs, reagents in flasks, a bunch of notes and a
+cauldron with some kind of brew. From the contents of the notes, you can
+assume that someone tried to find a recipe for some kind of potion, but all
+attempts, apparently, ended in failure. You wonder what kind of potion was
+supposed to come out?
